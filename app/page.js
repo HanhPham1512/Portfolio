@@ -65,7 +65,7 @@ export default function Home() {
           <h2>
             Projects <span>-&gt;</span>
           </h2>
-          <p>Here are some projects I have worked on</p>
+          <p>Here are some projects I have worked on.</p>
         </a>
 
         <a
@@ -78,7 +78,7 @@ export default function Home() {
             Gallery <span>-&gt;</span>
           </h2>
           <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+            I have a few samples that demonstrate the practical implementation of a database.
           </p>
         </a>
       </div>
