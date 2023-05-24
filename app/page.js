@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import profilePic from 'public/logo.jpg'
 import styles from './page.module.css'
 
 export default function Home() {
@@ -25,7 +24,7 @@ export default function Home() {
     <div className={styles.center}>
       <Image
         className={styles.logo}
-        src={profilePic}
+        src="https://www.canva.com/design/DAFjzz9E5zE/-Xyp4tkiwRbcMEESCQsxcQ/view?utm_content=DAFjzz9E5zE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
         width={500}
         height={500}
         alt="Picture of the author"
