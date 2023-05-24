@@ -7,7 +7,7 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           Hello!&nbsp;
-          <code className={styles.code}>app/page.js</code>
+          <code className={styles.code}> Nice to meet you!</code>
         </p>
         <div>
           <a
