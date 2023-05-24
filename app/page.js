@@ -20,20 +20,18 @@ export default function Home() {
         </div>
       </div>
 
-export default function Page() {
-  return (
+
     <div className={styles.center}>
       <Image
         className={styles.logo}
-        src="/logo.jpg"
+        src="/public/logo.jpg"
         width={500}
         height={500}
         alt="Picture of the author"
         priority
       />
     </div>
-  );
-}
+
 
       <div className={styles.grid}>
         <a
