@@ -53,7 +53,7 @@ export default function Home() {
           <h2>
             About Me! <span>-&gt;</span>
           </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
+          <p>Discover more about me and my background!</p>
         </a>
 
         <a
