@@ -41,7 +41,7 @@ export default function Home() {
           <h2>
             Download CV <span>-&gt;</span>
           </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
+          <p>To download my CV, simply click this button.</p>
         </a>
 
         <a
