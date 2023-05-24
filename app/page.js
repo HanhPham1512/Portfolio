@@ -78,7 +78,7 @@ export default function Home() {
             Gallery <span>-&gt;</span>
           </h2>
           <p>
-            I have a few samples that demonstrate the practical implementation of a database.
+          Samples that demonstrate the practical implementation of a database.
           </p>
         </a>
       </div>
