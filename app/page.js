@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import mypic from '../public/logo.jpg'
 import styles from './page.module.css'
 
 export default function Home() {
@@ -21,16 +20,20 @@ export default function Home() {
         </div>
       </div>
 
-      <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/mypic"
-          alt="logo"
-          width={1000}
-          height={900}
-          priority
-        />
-      </div>
+export default function Page() {
+  return (
+    <div className={styles.center}>
+      <Image
+        className={styles.logo}
+        src="/logo.jpg"
+        width={500}
+        height={500}
+        alt="Picture of the author"
+        priority
+      />
+    </div>
+  );
+}
 
       <div className={styles.grid}>
         <a
