@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import profilePic from './logo.jpg';
 import styles from './page.module.css'
 
 export default function Home() {
@@ -24,7 +25,7 @@ export default function Home() {
     <div className={styles.center}>
       <Image
         className={styles.logo}
-        src="/next.svg"
+        src={profilePic}
         width={500}
         height={500}
         alt="Picture of the author"
