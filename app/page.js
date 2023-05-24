@@ -24,7 +24,7 @@ export default function Home() {
     <div className={styles.center}>
       <Image
         className={styles.logo}
-        src="/logo.jpg"
+        src="/logo.png"
         width={900}
         height={500}
         alt="Picture of the author"
