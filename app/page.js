@@ -7,7 +7,7 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           Hello!&nbsp;
-          <code className={styles.code}>My pleasure to meet and connect with you!</code>
+          <code className={styles.code}>Lovely to meet and connect with you!</code>
         </p>
         <div>
           <a
