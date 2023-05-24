@@ -1,4 +1,4 @@
-import Image from 'public/image'
+import Image from 'next/image'
 import styles from './page.module.css'
 
 export default function Home() {
@@ -24,9 +24,9 @@ export default function Home() {
         <Image
           className={styles.logo}
           src="/logo.jpg"
-          alt="Logo"
-          width={180}
-          height={37}
+          alt="logo"
+          width={1920}
+          height={1808}
           priority
         />
       </div>
