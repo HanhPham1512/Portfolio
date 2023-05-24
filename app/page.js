@@ -47,7 +47,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://new-portfolio-hanhpham1512.vercel.app/blog"
+          href="https://new-portfolio-hanhpham1512.vercel.app/about"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
