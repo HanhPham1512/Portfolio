@@ -9,15 +9,6 @@ export default function Home() {
           Hello!&nbsp;
           <code className={styles.code}>Lovely to meet and connect with you!</code>
         </p>
-        <div>
-          <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            
-          </a>
-        </div>
       </div>
 
 
