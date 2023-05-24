@@ -24,7 +24,7 @@ export default function Home() {
     <div className={styles.center}>
       <Image
         className={styles.logo}
-        src="https://www.canva.com/design/DAFjzz9E5zE/-Xyp4tkiwRbcMEESCQsxcQ/view?utm_content=DAFjzz9E5zE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+        src="/next.svg"
         width={500}
         height={500}
         alt="Picture of the author"
