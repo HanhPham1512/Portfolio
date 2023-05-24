@@ -65,7 +65,7 @@ export default function Home() {
           <h2>
             Projects <span>-&gt;</span>
           </h2>
-          <p>Explore the Next.js 13 playground.</p>
+          <p>Here are some projects I have worked on</p>
         </a>
 
         <a
