@@ -25,7 +25,7 @@ export default function Home() {
       <Image
         className={styles.logo}
         src="/logo.jpg"
-        width={500}
+        width={1500}
         height={500}
         alt="Picture of the author"
         priority
