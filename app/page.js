@@ -1,6 +1,6 @@
-import Image from 'next/image';
-import profilePic from '../public/logo.jpg';
-import styles from './page.module.css';
+import Image from 'next/image'
+import profilePic from '/public/logo.jpg'
+import styles from './page.module.css'
 
 export default function Home() {
   return (
