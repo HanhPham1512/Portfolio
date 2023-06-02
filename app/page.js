@@ -26,7 +26,7 @@ export default function Home() {
 
       <div className={styles.grid}>
         <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="/HannahPham_Resume.pdf"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
